@@ -1,4 +1,3 @@
 # Notes
-Notes
-
-# 一个笔记合集
+Notes  
+一个笔记合集
